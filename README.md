@@ -71,4 +71,5 @@
         
 ## Bando de Dados
 
-    Nesse projeto, utilizaremos o WEB SQL para armazenar os dados off-line , para mais informações consulte: http://cordova.apache.org/docs/en/6.x/cordova/storage/storage.html#websql
+    Nesse projeto, utilizaremos o WEB SQL para armazenar os dados off-line, 
+    para mais informações consulte: http://cordova.apache.org/docs/en/6.x/cordova/storage/storage.html#websql
