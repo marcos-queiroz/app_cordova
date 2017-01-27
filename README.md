@@ -6,7 +6,7 @@
 ## O projeto está em fase inicial.
 
     A estrutura inical do projeto
-&nbsp;&nbsp;&nbsp;
+
 ├──beeFinanceiro/<br>
 |&nbsp;&nbsp;&nbsp;├── www/<br>
 |&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;├── bower_components/<br>
