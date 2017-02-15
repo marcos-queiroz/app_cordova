@@ -73,3 +73,10 @@
 
     Nesse projeto, utilizaremos o WEB SQL para armazenar os dados off-line, 
     para mais informações consulte: http://cordova.apache.org/docs/en/6.x/cordova/storage/storage.html#websql
+    
+    Obs.: Para Windows Phone, é recomendado a instalação de um plugin próprio.
+    
+## Plugins
+
+    cordova-plugin-whitelist
+    cordova-plugin-websql
