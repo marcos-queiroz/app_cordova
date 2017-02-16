@@ -8,10 +8,10 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "br.com.beecoffee.beefinanceiro"
+            "PACKAGE_NAME": "bee Finance"
         },
         "cordova-plugin-websql": {
-            "PACKAGE_NAME": "br.com.beecoffee.beefinanceiro"
+            "PACKAGE_NAME": "bee Finance"
         }
     },
     "dependent_plugins": {}
