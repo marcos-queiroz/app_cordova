@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BEECOFFEE-ASUS</Machine>
+    <WindowsUser>marco</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>br.com.beecoffee.appcordova</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\plugins\cordova-plugin-websql\src\windows\SQLite.Proxy\bin\Debug\SQLite.Proxy.winmd">
+      <PackagePath>SQLite.Proxy.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\plugins\cordova-plugin-websql\src\windows\SQLite.Proxy\bin\Debug\Community.CsharpSqlite.SQLiteClient.WinRT.dll">
+      <PackagePath>Community.CsharpSqlite.SQLiteClient.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\plugins\cordova-plugin-websql\src\windows\SQLite.Proxy\bin\Debug\System.Data.Ersatz.WinRT.dll">
+      <PackagePath>System.Data.Ersatz.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\plugins\cordova-plugin-websql\src\windows\SQLite.Proxy\bin\Debug\Community.CsharpSqlite.WinRT.dll">
+      <PackagePath>Community.CsharpSqlite.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\img\i-f7-ios.png">
+      <PackagePath>www\bower_components\framework7\dist\img\i-f7-ios.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\img\i-f7-material.png">
+      <PackagePath>www\bower_components\framework7\dist\img\i-f7-material.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\about.html">
+      <PackagePath>www\about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\about.html">
+      <PackagePath>www\bower_components\framework7\dist\about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\form.html">
+      <PackagePath>www\bower_components\framework7\dist\form.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\index.html">
+      <PackagePath>www\bower_components\framework7\dist\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\services.html">
+      <PackagePath>www\bower_components\framework7\dist\services.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\index.html">
+      <PackagePath>www\bower_components\framework7\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\form.html">
+      <PackagePath>www\form.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\services.html">
+      <PackagePath>www\services.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\.bower.json">
+      <PackagePath>www\bower_components\framework7\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\bower.json">
+      <PackagePath>www\bower_components\framework7\bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\composer.json">
+      <PackagePath>www\bower_components\framework7\composer.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\manifest-icons-ios.json">
+      <PackagePath>www\bower_components\framework7\manifest-icons-ios.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\manifest-icons-material.json">
+      <PackagePath>www\bower_components\framework7\manifest-icons-material.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\modules.json">
+      <PackagePath>www\bower_components\framework7\modules.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\jquery\.bower.json">
+      <PackagePath>www\bower_components\jquery\.bower.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\backers.md">
+      <PackagePath>www\bower_components\framework7\backers.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\CHANGELOG.md">
+      <PackagePath>www\bower_components\framework7\CHANGELOG.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\README.md">
+      <PackagePath>www\bower_components\framework7\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.ios.colors.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.ios.colors.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.ios.colors.min.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.ios.colors.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.ios.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.ios.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.ios.min.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.ios.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.ios.rtl.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.ios.rtl.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.ios.rtl.min.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.ios.rtl.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.material.colors.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.material.colors.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.material.colors.min.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.material.colors.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.material.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.material.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.material.min.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.material.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.material.rtl.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.material.rtl.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\framework7.material.rtl.min.css">
+      <PackagePath>www\bower_components\framework7\dist\css\framework7.material.rtl.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\css\my-app.css">
+      <PackagePath>www\bower_components\framework7\dist\css\my-app.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\css\notification.css">
+      <PackagePath>www\css\notification.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\js\framework7.js">
+      <PackagePath>www\bower_components\framework7\dist\js\framework7.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\js\framework7.min.js">
+      <PackagePath>www\bower_components\framework7\dist\js\framework7.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\js\my-app.js">
+      <PackagePath>www\bower_components\framework7\dist\js\my-app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\jquery\jquery-3.1.1.min.js">
+      <PackagePath>www\bower_components\jquery\jquery-3.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\js\bee.js">
+      <PackagePath>www\js\bee.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\js\mydb.js">
+      <PackagePath>www\js\mydb.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
+      <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\plugins\cordova-plugin-websql\src\windows\WebSqlProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-websql\src\windows\WebSqlProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\plugins\cordova-plugin-websql\www\WebSQL.js">
+      <PackagePath>www\plugins\cordova-plugin-websql\www\WebSQL.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\plugins\cordova-plugin-websql\www\windows\Database.js">
+      <PackagePath>www\plugins\cordova-plugin-websql\www\windows\Database.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\plugins\cordova-plugin-websql\www\windows\SqlTransaction.js">
+      <PackagePath>www\plugins\cordova-plugin-websql\www\windows\SqlTransaction.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\js\framework7.js.map">
+      <PackagePath>www\bower_components\framework7\dist\js\framework7.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\dist\js\framework7.min.js.map">
+      <PackagePath>www\bower_components\framework7\dist\js\framework7.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\www\bower_components\framework7\LICENSE">
+      <PackagePath>www\bower_components\framework7\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

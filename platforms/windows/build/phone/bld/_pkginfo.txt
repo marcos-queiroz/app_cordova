@@ -1,0 +1,1 @@
+C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\AppPackages\CordovaApp.Phone_1.0.0.0_anycpu_debug_Test\CordovaApp.Phone_1.0.0.0_anycpu_debug.appx

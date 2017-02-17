@@ -1,0 +1,2 @@
+C:\Users\marco\Documents\Projetos\APPs\app_cordova\platforms\windows\CordovaApp.Windows10.jsproj;x64
+C:\Users\marco\Documents\Projetos\APPs\app_cordova\plugins\cordova-plugin-websql\src\windows\SQLite.Proxy\SQLite.Proxy.csproj;x64
